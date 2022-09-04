@@ -1,5 +1,5 @@
 ---
-title: amabilisa на Chaos Constructions 2010
+title: "amabilisa на Chaos Constructions 2010"
 date: 2011-01-22T16:25:00Z
 tags: ["графика", "chaos constructions"]
 ---

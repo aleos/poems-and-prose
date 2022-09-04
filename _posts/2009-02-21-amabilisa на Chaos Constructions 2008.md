@@ -1,5 +1,5 @@
 ---
-title: amabilisa на Chaos Constructions 2008
+title: "amabilisa на Chaos Constructions 2008"
 date: 2009-02-21T16:25:00Z
 tags: ["графика", "chaos constructions", "Gimp", "Inkscape"]
 ---
